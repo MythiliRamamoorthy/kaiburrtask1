@@ -64,4 +64,4 @@ You can upload screenshots (e.g., MongoDB output, terminal output, VS Code UI) a
 markdown
 Copy
 Edit
-![App Screenshot](Task1.PNG)
+![alt text](Task1.PNG)
